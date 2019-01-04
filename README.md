@@ -14,23 +14,23 @@ COMO UTILIZAR:
 
 ### REQUISITOS :
 #### Utilizar em ambiente virtual Python2.7
-#### Criar ambiente virtual virtualenv 
+>  Criar ambiente virtual virtualenv 
 ```
 $virtualenv -p /usr/bin/python2.7 venv
 ```
-#Ativar ambiente
+> Ativar ambiente
 ```
 $source venv/bin/activate
 ```
-#Conferir versão python
+> Conferir versão python
 ```
 $python --version
 ```
-#Chamando o script corretamente:
+> Chamando o script corretamente:
 ```
 python 'local/do/arquivo/onguiDictSortGenerator.py' [inputText.txt] [onguiWordList.txt]
 ```        
-#Ou:
+> Ou:
 ```
 chmod 755 "seed.txt" #Deve criar um pwdlist a partir de um arquivo fonte
 
