@@ -4,15 +4,18 @@ Gerador de lista de dicionario em Python 2.7
 
 ADICIONAR E EDITAR:
 #Repo: https://github.com/vsgobbi/PyDictGenerator.git
-git clone https://github.com/vsgobbi/PyDictGenerator.git .
+$git clone https://github.com/vsgobbi/PyDictGenerator.git .
 
 
 COMO UTILIZAR: 
 
 #Utilizar em ambiente virtual Python2.7
-#source venv/bin/activate
+#Criar ambiente virtual virtualenv 
+$virtualenv -p /usr/bin/python2.7 venv
+#Ativar ambiente
+$source venv/bin/activate
 #Conferir versão python
-python --version
+$python --version
 
 #Chamando o script corretamente:
 
