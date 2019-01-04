@@ -1,11 +1,3 @@
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
 
 ### Licensa GPLv3.0
 Desenvolvido por Ongui, vitorsgobbi@hotmail.com
@@ -19,8 +11,9 @@ $git clone https://github.com/vsgobbi/PyDictGenerator.git .
 
 COMO UTILIZAR: 
 
-#Utilizar em ambiente virtual Python2.7
-#Criar ambiente virtual virtualenv 
+### REQUISITOS :
+##Utilizar em ambiente virtual Python2.7
+##Criar ambiente virtual virtualenv 
 ```
 $virtualenv -p /usr/bin/python2.7 venv
 ```
