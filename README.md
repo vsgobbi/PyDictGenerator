@@ -13,8 +13,8 @@ $git clone https://github.com/vsgobbi/PyDictGenerator.git .
 COMO UTILIZAR: 
 
 ### REQUISITOS :
-##Utilizar em ambiente virtual Python2.7
-##Criar ambiente virtual virtualenv 
+#### Utilizar em ambiente virtual Python2.7
+#### Criar ambiente virtual virtualenv 
 ```
 $virtualenv -p /usr/bin/python2.7 venv
 ```
