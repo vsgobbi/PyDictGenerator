@@ -1,5 +1,5 @@
 Licensa GPLv3.0
-Desenvolvido por vitorsgobbi@hotmail.com
+Desenvolvido por Ongui, vitorsgobbi@hotmail.com
 Gerador de lista de dicionario em Python 2.7 
 
 Repo: https://github.com/vsgobbi/PyDictGenerator.git
